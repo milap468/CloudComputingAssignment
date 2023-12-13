@@ -3,7 +3,7 @@
  ## This is a File storage system with easy upload and easy download.
 
 1. To Run this Project first Download the Zip File from GitHub.
-2. After Downloading the zip file you have to abstract that file.
+2. After Downloading the zip file you have to extract that file.
 3. Then go to the location where you have stored this file and open the terminal at that location.
 4. Then activate the virtual environment using source env/bin/activate if you are in Mac/Linux or if you are in Windows then my_env\Scripts\activate.
 5. Then run the pip install requirements.txt file.
